@@ -1,0 +1,40 @@
+{
+  "name": "pi-session-inspect",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Read-only Pi extension for session discovery, search, and normalized session inspection.",
+  "keywords": [
+    "pi-package",
+    "pi-coding-agent",
+    "pi-extension",
+    "session-history",
+    "developer-tools"
+  ],
+  "license": "MIT",
+  "author": "Mohammad Erfan Jabbari",
+  "homepage": "https://github.com/MohammadErfan-Jabbari/pi-session-inspect#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadErfan-Jabbari/pi-session-inspect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MohammadErfan-Jabbari/pi-session-inspect/issues"
+  },
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ]
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*",
+    "@mariozechner/pi-ai": "*",
+    "@sinclair/typebox": "*"
+  },
+  "files": [
+    "extensions",
+    "README.md",
+    "LICENSE",
+    "package.json"
+  ]
+}

@@ -21,15 +21,6 @@
   "bugs": {
     "url": "https://github.com/MohammadErfan-Jabbari/pi-session-inspect/issues"
   },
-  "author": "Mohammad Erfan Jabbari",
-  "homepage": "https://github.com/MohammadErfan-Jabbari/pi-session-inspect#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MohammadErfan-Jabbari/pi-session-inspect.git"
-  },
-  "bugs": {
-    "url": "https://github.com/MohammadErfan-Jabbari/pi-session-inspect/issues"
-  },
   "pi": {
     "extensions": [
       "./extensions"
